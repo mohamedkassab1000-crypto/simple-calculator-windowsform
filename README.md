@@ -10,7 +10,8 @@
 ​Framework: .NET Framework / .NET Core
 ​IDE: Visual Studio 2022
 ​UI: Windows Forms (WinForms)
-![1](https://github.com/user-attachments/assets/59e6145d-f81b-4584-a9c1-23d4d69cc0d4)
-![2](https://github.com/user-attachments/assets/037e0f0e-7fcf-4aef-9fae-1a2![3](https://github.com/user-attachments/assets/57c343c3-fd07-469b-93f0-0d410798c025)
-![4](https://github.com/user-attachments/assets/aafce94f-fd70-44e3-81b2-90512ebeb2a5)
-8c911403d)
+![1](https://github.com/user-attachments/assets/53452660-ca3e-49d1-98c5-2604b2b912fe)
+![2](https://github.com/user-attachments/assets/0bdfa302-0ce6-4678-811c-c74af1e1ceb4)
+![3](https://github.com/user-attachments/assets/b6fd3ccf-5acb-42fc-bed8-18f94dd1df9a)
+![4](https://github.com/user-attachments/assets/ef26f636-f5cf-475f-9201-cfab15ffc30a)
+
